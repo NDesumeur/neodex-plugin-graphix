@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.graphix",
+  "repo": "NDesumeur/neodex-plugin-graphix",
+  "version": "1.0.0",
+  "sha256": "fb0ac63ecec55cf83fa96fa5d43d55645a40b9139e4e303e0674e00021299251",
+  "approvedAt": "2026-11-12T06:35:37.922Z",
+  "neobase": ">=4.0.0",
+  "signature": "oDBoJpMVBuvxXWEKAYI9JSdQxSdCDV2stB4vR70BXnxwCSDwXnX3bWCEx6kzMlNSLlZ7EL8GdBnk42Qy166IDw=="
+}
