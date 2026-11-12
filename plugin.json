@@ -1,0 +1,23 @@
+{
+  "id": "neodex.graphix",
+  "name": "Graphix",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "description": "Trace jusqu'à 6 fonctions et change leurs paramètres en direct : curseurs a, b et c, temps t qui s'anime, écriture naturelle (2x, x², |x|, sin x, 2,5). Déplace-toi à la souris, zoome à la molette, lis les valeurs au survol, affiche les dérivées, et trouve les zéros, minimums, maximums et intersections dans la zone visible. Table de valeurs et export en PNG.",
+  "icon": "icon.png",
+  "entry": "index.js",
+  "view": "graphix",
+  "neobase": ">=4.0.0",
+  "type": "app",
+  "category": "Outils",
+  "mobile": true,
+  "compatibility": ["windows", "android", "linux"],
+  "syncMode": "fusion",
+  "syncInfo": "Tes fonctions, les curseurs et la vue.",
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [
+    "storage"
+  ]
+}
