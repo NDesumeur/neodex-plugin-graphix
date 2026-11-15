@@ -36,3 +36,10 @@ Les curseurs **a**, **b** et **c** (de -10 à 10, ou une valeur tapée) changent
 ## Données
 
 Les fonctions, les curseurs et la vue sont gardés dans le dossier du plugin. Autorisation : `storage` seulement.
+
+## Suites, nuages, aire et 3D
+
+- **Suite** : écris avec `n` (`n^2/10`), ou `1 ; u*1,1` (u0 = 1, chaque terme = le précédent × 1,1). Les termes s'affichent en points et les premiers dans « Points remarquables ».
+- **Nuage de points** : `(1;2) (2;3,5) (4;7)`. La droite de tendance (moindres carrés) est tracée en pointillés, avec son équation et r.
+- **Aire sous la courbe** : le bouton colorie l'aire entre une courbe et l'axe des x et donne l'intégrale ; les bornes acceptent `pi/2`.
+- **3D** : une expression avec `x` et `y` (`sin(x)*cos(y)`) passe la vue en 3D. Glisse pour tourner, molette pour zoomer.

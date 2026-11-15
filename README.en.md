@@ -36,3 +36,10 @@ Sliders **a**, **b** and **c** (from -10 to 10, or a typed value) change the cur
 ## Data
 
 Functions, sliders and view are kept in the plugin's folder. Permission: `storage` only.
+
+## Sequences, scatter plots, area and 3D
+
+- **Sequence**: write with `n` (`n^2/10`), or `1 ; u*1.1` (u0 = 1, each term = previous × 1.1).
+- **Scatter plot**: `(1;2) (2;3.5) (4;7)`, with its dashed least-squares trend line, equation and r.
+- **Area under the curve**: shades the area between a curve and the x axis and gives the integral; bounds accept `pi/2`.
+- **3D**: an expression with `x` and `y` (`sin(x)*cos(y)`) switches to 3D. Drag to rotate, wheel to zoom.
