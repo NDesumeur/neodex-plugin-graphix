@@ -51,5 +51,12 @@
  "zéros, minimum, intersections, curseur a et tracé ok": "zeros, minimum, intersections, slider a and plot ok",
  "Écris avec": "Write with",
  "Écris une fonction de x et y, par exemple sin(x)*cos(y).": "Write a function of x and y, for example sin(x)*cos(y).",
- "à": "to"
+ "à": "to",
+ "Une suite : écris avec": "A sequence: write with",
+ "), ou": "), or",
+ "pour u0 = 1 et chaque terme = le précédent × 1,1. Un nuage de points :": "for u0 = 1 and each term = the previous one × 1.1. A scatter plot:",
+ ", avec sa droite de tendance. Une surface : écris avec": ", with its trend line. A surface: write with",
+ "13px monospace": "13px monospace",
+ "z = f(x, y), x et y de": "z = f(x, y), x and y from",
+ "· glisse pour tourner, molette pour zoomer": "· drag to rotate, wheel to zoom"
 }
